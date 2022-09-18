@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MatchingMaching.iml" filepath="$PROJECT_DIR$/.idea/modules/MatchingMaching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MatchingMaching.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MatchingMaching.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MatchingMaching.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MatchingMaching.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MatchingMaching.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MatchingMaching.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MatchingMaching.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MatchingMaching.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
